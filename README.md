@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @RulerOfCandyland
-- 👀 I’m interested in Data Analysis 
-- 🌱 I’m currently learning SQL and R
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I’m @RulerOfCandyland
+- I’m interested in Data Analysis & Web Development
+- I’m currently learning HTML, CSS, Javascript
+- Languages I know: SQL, R, and Python
 
 <!---
 RulerOfCandyland/RulerOfCandyland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
